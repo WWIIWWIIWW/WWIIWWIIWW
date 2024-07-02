@@ -36,12 +36,14 @@
 - 📫 How to reach me **kaizhang@kth.se**
 
 <br>
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WWIIWWIIWW&v=1&show_icons=true&theme=dark&include_all_commits=true&count_private=true&" alt="Kai Zhang's GitHub stats">
-</div> -->
 <div align="center">
-<img src="https://github-readme-stats-git-dependabot-21c976-wwiiwwiiwws-projects.vercel.app/api?username=wwiiwwiiww&v=1&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Kai Zhang's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=WWIIWWIIWW&v=1&show_icons=true&theme=dark&include_all_commits=true&count_private=true&" alt="Kai Zhang's GitHub stats">
 </div>
+<!-- <div align="center">
+<img src="https://github-readme-stats-gkw6awevo-wwiiwwiiwws-projects.vercel.app/api?username=wwiiwwiiww&v=1&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Kai Zhang's GitHub stats">
+</div> -->
+
+
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kai-zhang-77bb48a4/">	
