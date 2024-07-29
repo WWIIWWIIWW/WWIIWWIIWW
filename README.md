@@ -36,9 +36,9 @@
 - 📫 How to reach me **kaizhang@kth.se**
 
 <br>
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WWIIWWIIWW&v=1&show_icons=true&theme=dark&include_all_commits=true&count_private=true&" alt="Kai Zhang's GitHub stats">
-</div>
+</div> -->
 <!-- <div align="center">
 <img src="https://github-readme-stats-gkw6awevo-wwiiwwiiwws-projects.vercel.app/api?username=wwiiwwiiww&v=1&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Kai Zhang's GitHub stats">
 </div> -->
