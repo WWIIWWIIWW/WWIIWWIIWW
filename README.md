@@ -33,7 +33,7 @@
 - 👯 I’m looking to collaborate on **Machine Leaning and Clean Combustion Projects**
 - 😊 Open to **learning anything new!**
 - 💬 Ask me about **anything you feel like!**
-- 📫 How to reach me **kaizhang@kth.se**
+- 📫 How to reach me **kaizhangresearch@gmail.com**
 
 <br>
 <!-- <div align="center">
