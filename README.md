@@ -25,8 +25,14 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-OpenFOAM&ANSYS&PARAVIEW-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-  
+![](https://img.shields.io/badge/Tools-OpenFOAM-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-ANSYS-informational?style=flat&logo=ansys&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Paraview-informational?style=flat&logo=paraview&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
   
 **A bit about me:**
 
@@ -35,13 +41,9 @@
 - 💬 Ask me about **anything you feel like!**
 - 📫 How to reach me **kaizhangresearch@gmail.com**
 
-<br>
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WWIIWWIIWW&v=1&show_icons=true&theme=dark&include_all_commits=true&count_private=true&" alt="Kai Zhang's GitHub stats">
-</div> -->
-<!-- <div align="center">
-<img src="https://github-readme-stats-gkw6awevo-wwiiwwiiwws-projects.vercel.app/api?username=wwiiwwiiww&v=1&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Kai Zhang's GitHub stats">
-</div> -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wwiiwwiiww&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Kai Zhang's GitHub stats">
+</div>
 
 
 
