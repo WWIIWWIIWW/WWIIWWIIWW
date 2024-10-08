@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kai Zhang</h1>
-<h3 align="center">  ● Renewable Energy  ● Heat and Mass Tansfer ● CFD Scientist </h3>
+<h3 align="center">  ● Full Stack Web Development ● Renewable Energy  ● Heat and Mass Tansfer ● CFD Scientist </h3>
 
 <br />
 
