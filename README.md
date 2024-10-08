@@ -42,7 +42,9 @@
 - 📫 How to reach me **kaizhangresearch@gmail.com**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wwiiwwiiww&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Kai Zhang's GitHub stats">
+  <a href="https://github.com/WWIIWWIIWW">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=WWIIWWIIWW&theme=dracula&include_all_commits=true&count_private=true" alt="Your GitHub stats">
+  </a>
 </div>
 
 
