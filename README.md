@@ -87,7 +87,7 @@
 
   <!-- Top Languages -->
   <a href="https://github.com/WWIIWWIIWW">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WWIIWWIIWW&layout=compact&theme=radical" height="180px" width="400px"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WWIIWWIIWW&layout=compact&theme=radical&hide=jupyter%20notebook&count_private=true" height="180px" width="400px"/>
   </a>
 
 </div>
