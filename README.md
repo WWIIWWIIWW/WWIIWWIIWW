@@ -26,6 +26,16 @@
 
 ---
 
+## 🚀 Founder of Virtwin-Energy AB
+
+- 🏢 **[Virtwin-Energy AB](https://virtwin-energy.se/)** | [LinkedIn Company Page](https://www.linkedin.com/company/virtwin-energy-ab/)  
+- 💬 *Making advanced engineering and energy modelling as simple as asking a question.*  
+- 🌐 **Virtwin-Energy AB** is an **EdTech/Software company** revolutionizing how industrial software is used in **combustion and energy production**.  
+- 💡 Our flagship product, **Ignite-AI**, envisions a world where **engineers, researchers, and students** can seamlessly access **professional-grade tools** for **combustion science and renewable energy modeling**.  
+- 🔬 At **Virtwin-Energy**, we integrate **AI, numerical simulation, and digital engineering** to empower the next generation of **energy innovators**.  
+
+---
+
 ## 🔧 Technologies & Tools
 
 ### 💻 Programming & Scripting
@@ -111,6 +121,12 @@
 <a href="https://scholar.google.com/citations?user=lfUyemMAAAAJ&hl=en">
   <img align="center" alt="Kai Zhang | Google Scholar" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg"/>
 </a>
+<a href="https://www.linkedin.com/company/virtwin-energy-ab/">
+  <img align="center" alt="Virtwin-Energy AB | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+</a>
+<a href="https://virtwin-energy.se/">
+  <img align="center" alt="Virtwin-Energy AB | Website" width="30px" src="https://img.icons8.com/fluency/48/domain.png"/>
+</a>
 </p>
 
 ---
@@ -119,5 +135,7 @@
 ✨ You’ve reached my GitHub profile!  
 Feel free to explore projects, raise issues, or connect with me.  
 <br/>
-Happy Coding · Happy Learning 🚀
+Happy Coding · Happy Learning 🚀  
+<br/>
+Building the future of **AI-driven engineering** with [Virtwin-Energy AB](https://virtwin-energy.se/) 🌍
 </p>
